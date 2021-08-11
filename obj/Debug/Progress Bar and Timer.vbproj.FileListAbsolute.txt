@@ -1,0 +1,12 @@
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\bin\Debug\Progress Bar and Timer.exe.config
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\bin\Debug\Progress Bar and Timer.exe
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\bin\Debug\Progress Bar and Timer.pdb
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\bin\Debug\Progress Bar and Timer.xml
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress Bar and Timer.vbprojAssemblyReference.cache
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress_Bar_and_Timer.Form1.resources
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress_Bar_and_Timer.Resources.resources
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress Bar and Timer.vbproj.GenerateResource.cache
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress Bar and Timer.vbproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress Bar and Timer.exe
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress Bar and Timer.xml
+c:\users\acer\source\repos\Progress Bar and Timer\Progress Bar and Timer\obj\Debug\Progress Bar and Timer.pdb
